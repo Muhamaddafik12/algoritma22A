@@ -11,7 +11,7 @@ public class Tugas_Sesi7_MuhamadDafikKholikFirdaus {
 
     public static void info(){
         System.out.println("\n=========================");
-        System.out.println("- Antrian Bank Mangkiri -");
+        System.out.println("- Antrian Bank Mandiri -");
         System.out.println("-------------------------");
 
         if (palingDepan == 0) {
